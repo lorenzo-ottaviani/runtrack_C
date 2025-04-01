@@ -1,3 +1,12 @@
+/*
+* Auteur : Lorenzo OTTAVIANI.
+* Date : 01/04/2025 00h36
+* But du programme :
+*    Vérifie si tout les caractères de la string sont des nombres.
+* Entrée : ∅
+* Sortie : Affiche 1 si c'est la string contient que des nombres sinon 0.
+*/
+
 #include <stdio.h>
 
 int str_is_digit(char *str) {

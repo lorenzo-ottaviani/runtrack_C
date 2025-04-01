@@ -1,3 +1,12 @@
+/*
+* Auteur : Lorenzo OTTAVIANI.
+* Date : 31/03/2025 22h33
+* But du programme :
+*    Affiche la longueur du string dans le terminal.
+* Entrée : ∅
+* Sortie : Affichage de la longueur du string.
+*/
+
 #include <stdio.h>
 
 int my_strlen(char *str) {
