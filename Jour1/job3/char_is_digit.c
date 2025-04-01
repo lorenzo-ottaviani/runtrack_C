@@ -3,7 +3,7 @@
 * Date : 01/04/2025 00h34
 * But du programme :
 *    Vérifie si un caractère est un nombre.
-* Entrée : ∅
+* Entrée : Le caractère à tester.
 * Sortie : Affiche 1 si c'est un nombre sinon 0.
 */
 
