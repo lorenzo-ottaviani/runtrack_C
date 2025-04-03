@@ -13,6 +13,7 @@ int str_is_digit(char *str) {
     int status = 1;
 
     while (*str) {
+          
         if (*str < '0' || *str > '9') {  // Vérifie que le caractère n'est pas compris dans les codes ASCII des chiffres.
             status = 0;
             break;
