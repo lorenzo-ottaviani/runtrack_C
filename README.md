@@ -1,1 +1,2 @@
-# runtrack_C
+# Projet d'apprentissage de C
+Langage utilisé : C
